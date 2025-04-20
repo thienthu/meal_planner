@@ -71,3 +71,6 @@ streamlit run website/home.py
 ```
 ![TheMealPlanner-GoogleChrome2025-04-2023-38-56-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a6930d0c-9145-4ec9-ab67-cf9b04502df7)
 
+## 🧪 Author
+- **Author**: Thu Nguyen.
+- **Disclaimer**: This project was developed as part of the Database course at Ghent University.

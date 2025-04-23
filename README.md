@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-**Meal Planner** is an end-to-end data engineering and web application project designed to help users find delicious recipes that align with their **dietary preferences** and **nutritional goals**. With so many recipe options available online, finding meals that match specific needs can be overwhelming—this project aims to simplify that process.
+**Meal Planner** is an end-to-end data engineering and web application project designed to help users find delicious recipes that align with their dietary preferences and nutritional goals. With so many recipe options available online, finding meals that match specific needs can be overwhelming—this project aims to simplify that process.
 
-By building a full **ETL pipeline** and a **Streamlit-based web app**, this project enables users to seamlessly discover meals that fit their personal criteria, including calorie limits, preferred ingredients, and allergies.
+By building a full ETL pipeline and a Streamlit-based web app, this project enables users to seamlessly discover meals that fit their personal criteria, including calorie limits, preferred ingredients, and allergies.
 
 ## ⚙️ Features
 
